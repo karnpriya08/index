@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+        font-family: "Times New Roman", Times, serif;
+  
+}
+#keep {
+
+    font-size: xx-small;
+}
+.d-flex{
+    display:flex;
+    flex-direction: row;
+
+}
+
+.shad{
+    margin-top: 40px;
+    padding: 5%;
+    border-top: 2px solid red;
+    /* border-color: red; */
+    border-radius: 5%;
+    box-shadow: 1px 10px 2px 2px red;
+    background-color: papayawhip ;
+}
+.dash{
+    border: 2px;
+    border-style: dashed;
+    text-align: center;
+}
+.boxshadow{
+    box-shadow: 10px 10px 5px black;
+    position: relative;
+    top :50px;
+}
+.bg{
+    background-image: url(./background3.png); 
+                background-size:cover;  
+                  background-position:start;
+                  height: 65vh ;
+
+}
+.forcolor{
+    background-color: #F8EDE3 ;
+    
+}
+    
+.ul{
+    list-style-type: none;
+}
+.post{
+    width: 400px;
+    position:relative;
+    left: 400px;
+    
+}
+.fonting{
+    width: 90px;
+    position:absolute;
+    top: 50px;
+    left: 140px;
+    font-size: 7px;
+}   
+.fontsize{
+    font-size: 10px;
+    text-align: center;
+}
+  
+
+                    
